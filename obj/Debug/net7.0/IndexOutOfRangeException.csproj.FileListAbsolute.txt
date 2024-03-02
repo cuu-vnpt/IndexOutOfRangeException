@@ -1,0 +1,15 @@
+/Users/macos/Desktop/Operator/IndexOutOfRangeException/bin/Debug/net7.0/IndexOutOfRangeException
+/Users/macos/Desktop/Operator/IndexOutOfRangeException/bin/Debug/net7.0/IndexOutOfRangeException.deps.json
+/Users/macos/Desktop/Operator/IndexOutOfRangeException/bin/Debug/net7.0/IndexOutOfRangeException.runtimeconfig.json
+/Users/macos/Desktop/Operator/IndexOutOfRangeException/bin/Debug/net7.0/IndexOutOfRangeException.dll
+/Users/macos/Desktop/Operator/IndexOutOfRangeException/bin/Debug/net7.0/IndexOutOfRangeException.pdb
+/Users/macos/Desktop/Operator/IndexOutOfRangeException/obj/Debug/net7.0/IndexOutOfRangeException.csproj.AssemblyReference.cache
+/Users/macos/Desktop/Operator/IndexOutOfRangeException/obj/Debug/net7.0/IndexOutOfRangeException.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macos/Desktop/Operator/IndexOutOfRangeException/obj/Debug/net7.0/IndexOutOfRangeException.AssemblyInfoInputs.cache
+/Users/macos/Desktop/Operator/IndexOutOfRangeException/obj/Debug/net7.0/IndexOutOfRangeException.AssemblyInfo.cs
+/Users/macos/Desktop/Operator/IndexOutOfRangeException/obj/Debug/net7.0/IndexOutOfRangeException.csproj.CoreCompileInputs.cache
+/Users/macos/Desktop/Operator/IndexOutOfRangeException/obj/Debug/net7.0/IndexOutOfRangeException.dll
+/Users/macos/Desktop/Operator/IndexOutOfRangeException/obj/Debug/net7.0/refint/IndexOutOfRangeException.dll
+/Users/macos/Desktop/Operator/IndexOutOfRangeException/obj/Debug/net7.0/IndexOutOfRangeException.pdb
+/Users/macos/Desktop/Operator/IndexOutOfRangeException/obj/Debug/net7.0/IndexOutOfRangeException.genruntimeconfig.cache
+/Users/macos/Desktop/Operator/IndexOutOfRangeException/obj/Debug/net7.0/ref/IndexOutOfRangeException.dll
